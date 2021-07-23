@@ -1,3 +1,4 @@
 nlp-sentence-transformers.ipynb
 .ipynb_checkpoints/
 data/ARC-V1-Feb2018-2
+.DS_Store
